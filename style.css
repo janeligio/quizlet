@@ -2,14 +2,34 @@
   background-color: #4257B2;
   border:none;
   box-shadow: none;
-  padding-left: 20px;
-  padding-top: 10px;
+  margin-bottom: 0;
+
 }
 .blue-background {
   background-color: #4257B2;
   height: 80px;
 }
 
+.footer {
+  background-color: #4257B2;
+  height: 250px;
+  padding-top: 50px;
+}
+
 .ui.button {
   background-color: #3ccfcf;
+  border-radius: 0;
 }
+.ui.inverted.small.header{
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.ui.fluid.image {
+  margin-top: 0;
+}
+
+.ui.column {
+  color: white;
+}
+
